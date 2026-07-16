@@ -27,15 +27,24 @@
 ####   Expériences professionnelles
 
 **2020/2026** - **Encadrant technique**, social et pédagogique (ULAMIR-CPIE) - MORLAIX (29)
+
 **2019/2020** - **Formateur** en développement WEB (Ligue de l'enseignement) - SÈTE (34)
 **2018/2019** - Chargé de **production et vente** (Appel un geek) - SÈTE (34)
+
 **2017/2018** - **Développeur** indépendant, **agent de maintenance informatique** - SÈTE (34)
+
 **2016/2017** - Chargé de production en **imprimerie** (Éditions FLAM) - SÈTE (34)
+
 **2011/2016** - **Photographe** indépendant - Marseillan (34)
+
 **2008/2011** - **Animateur** culturel et d'ateliers multimédia (Ville de BREST) - BREST (29)
+
 **2007/2008** - Animateur de PAPI / Espace TIC (Association Vivre La Rue) - BREST (29)
+
 **2006/2007** - Menuisier (École supérieure d'art) - BREST (29)
+
 **2005/2006** - Technicien informatique (Archives départementales du Finistère) - BREST (29)
+
 **2002/2003** - Peintre en bâtiment (ELYO groupe SUEZ) - BREST (29)
 
 ------
@@ -70,19 +79,32 @@
 
 - **Création d'un protocole** de reconditionnement de matériel informatique.
 
-  **2024/2025** - Création d'un système de **parc informatique amnésique IPXE** / démarrage de vm en réseau sur RAM "diskless"
-  **2023/2024** - Création d'un site internet à portée écologique pour La Capsule - **lacapsule.org**
+  **2024/2025** - Création d'un système de **parc informatique amnésique IPXE** / démarrage de vm en réseau sur RAM "diskless".
+  
+  **2023/2024** - Création d'un site internet à portée écologique pour La Capsule - **lacapsule.org**.
+  
   **2022/2023** - Création d'un logiciel d'IG et testing pour PC - **JAVA/SHELL/JS/PYTHON**.
+  
   **2021/2022** - Création d'un logiciel de gestion de stock et de traçabilité - **CSS/PHP**.
+  
   **2020/2021** - Mise en oeuvre d'une **infrastructure de microservices**, hébergement, partage.
+  
   **2019/2020** - **Création d'un outil de télétravail** et de multiples supports dédiés au dev WWM. 
+  
   **2018/2019** - Réalisation d'un **système de gestion clients**, optimisation des espaces de travail.
+  
   **2017/2018** - Réalisation d'une ferme de minage, création d'un **réseau neuronal**.
+  
   **2016/2017** - **Optimisation d'espaces de travail et de production** - SÈTE (34)
+  
   **2013/2016** - Diverses expositions, **affiches et couverture CD, livres**... - FINISTÈRE/HÉRAULT 
+  
   **2012/2013** - Réalisation d'une procédure et d'un **logiciel de maintenance** - SÈTE (34)
+  
   **2010/2012** - **Création de site web** pour diverses associations et entreprises.
+  
   **2009/2010** - Création d'un espace multimédia "La briquetterie" - HERZEELE (59) 
+  
   **2008/2009** - Création d'un espace multimédia "Au coin d'la rue" - BREST (29)
 
 ------
