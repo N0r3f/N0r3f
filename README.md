@@ -4,7 +4,7 @@
 
 ------
 
-   `Encadrant | Formateur | Manager | Fullstack dev| DevOps | Architecte | Graphiste`  ` Scrum master | Content manager | SEA | SEO | Traffic manager | Pentester | Vidéaste`
+  	*Je suis un professionnel **polyvalent** du numérique, capable de concevoir, développer et maintenir des solutions techniques, web et **systèmes adaptées à des contextes variés**. J’allie expertise en formation, accompagnement et médiation pédagogique à une forte maîtrise des environnements IT, du DevOps, de la cybersécurité et de la gestion d’infrastructures. Mon parcours me permet aussi d’intervenir sur **toute la chaîne de valeur**, de la création graphique et vidéo à la production de contenus, au SEO/SEA et à l’optimisation de la présence en ligne. **J’aime transformer des besoins complexes en outils concrets, utiles et accessibles, avec une approche à la fois technique, humaine et orientée résultat**.*
 
 ------
 
@@ -26,7 +26,7 @@
 
 ####   Expériences professionnelles
 
-**2020/2024** - **Encadrant technique**, social et pédagogique (ULAMIR-CPIE) - MORLAIX (29)
+**2020/2026** - **Encadrant technique**, social et pédagogique (ULAMIR-CPIE) - MORLAIX (29)
 **2019/2020** - **Formateur** en développement WEB (Ligue de l'enseignement) - SÈTE (34)
 **2018/2019** - Chargé de **production et vente** (Appel un geek) - SÈTE (34)
 **2017/2018** - **Développeur** indépendant, **agent de maintenance informatique** - SÈTE (34)
@@ -42,29 +42,48 @@
 
 ####   Réalisations
 
-**2020/2024** - Résumé de quelques réalisations pour **ULAMIR, Goupil et OGO (Ordi Grand Ouest)** :
+  **2020/2026** - Résumé de quelques réalisations pour **ULAMIR, Goupil et OGO (Ordi Grand Ouest)** :
+
+- Création d'un outil de médiation numérique par apprentissage ludique - **os.lacapsule.org**
+
+- Création d'un logiciel de **gestion de VM partagées via HTTP et disque ISCSI**, d'overlays VM et réseau.
+
+- **Pilotage du projet de création logiciel** pour l'effacement sécurisé des données
+
+- Création d'une **formation au reconditionnement de matériel** informatique
+
+- Mise en commun des **protocoles internes d'effacement sécurisé** des données
+
+- **Création d'un logiciel métier** "all-in-one" dédié au reconditionnement de matériel IT  
 
 - **Création d'une charte graphique**, logo et typo (police de caractère) pour La Capsule
+
 - Création de nombreux **sites web** et de **logiciels** - NodeJS, RUST, JS, PHP, JAVA, C, SHELL...
+
 - Création **de formation** tous publics et de supports de sensibilisation au GREEN-IT. 
+
 - **Création d'un repaircafé** chaque semaine et de formations **auprès des OF et de l'UIT**
+
 - Réalisation de vidéos - **prise de vue, son, montage, post-prod et optimisation web**.                                                                                                                              
+
 - **Création de machine** pour clonage de disques durs et effacement de données. 
+
 - **Création d'un protocole** de reconditionnement de matériel informatique.
 
-**2023/2024** - Création d'un site internet à portée écologique pour La Capsule - **lacapsule.org**
-**2022/2023** - Création d'un logiciel d'IG et testing pour PC - **JAVA/SHELL/JS/PYTHON**.
-**2021/2022** - Création d'un logiciel de gestion de stock et de traçabilité - **CSS/PHP**.
-**2020/2021** - Mise en oeuvre d'une **infrastructure de microservices**, hébergement, partage.
-**2019/2020** - **Création d'un outil de télétravail** et de multiples supports dédiés au dev WWM. 
-**2018/2019** - Réalisation d'un **système de gestion clients**, optimisation des espaces de travail.
-**2017/2018** - Réalisation d'une ferme de minage, création d'un **réseau neuronal**.
-**2016/2017** - **Optimisation d'espaces de travail et de production** - SÈTE (34)
-**2013/2016** - Diverses expositions, **affiches et couverture CD, livres**... - FINISTÈRE/HÉRAULT 
-**2012/2013** - Réalisation d'une procédure et d'un **logiciel de maintenance** - SÈTE (34)
-**2010/2012** - **Création de site web** pour diverses associations et entreprises.
-**2009/2010** - Création d'un espace multimédia "La briquetterie" - HERZEELE (59) 
-**2008/2009** - Création d'un espace multimédia "Au coin d'la rue" - BREST (29)
+  **2024/2025** - Création d'un système de **parc informatique amnésique IPXE** / démarrage de vm en réseau sur RAM "diskless"
+  **2023/2024** - Création d'un site internet à portée écologique pour La Capsule - **lacapsule.org**
+  **2022/2023** - Création d'un logiciel d'IG et testing pour PC - **JAVA/SHELL/JS/PYTHON**.
+  **2021/2022** - Création d'un logiciel de gestion de stock et de traçabilité - **CSS/PHP**.
+  **2020/2021** - Mise en oeuvre d'une **infrastructure de microservices**, hébergement, partage.
+  **2019/2020** - **Création d'un outil de télétravail** et de multiples supports dédiés au dev WWM. 
+  **2018/2019** - Réalisation d'un **système de gestion clients**, optimisation des espaces de travail.
+  **2017/2018** - Réalisation d'une ferme de minage, création d'un **réseau neuronal**.
+  **2016/2017** - **Optimisation d'espaces de travail et de production** - SÈTE (34)
+  **2013/2016** - Diverses expositions, **affiches et couverture CD, livres**... - FINISTÈRE/HÉRAULT 
+  **2012/2013** - Réalisation d'une procédure et d'un **logiciel de maintenance** - SÈTE (34)
+  **2010/2012** - **Création de site web** pour diverses associations et entreprises.
+  **2009/2010** - Création d'un espace multimédia "La briquetterie" - HERZEELE (59) 
+  **2008/2009** - Création d'un espace multimédia "Au coin d'la rue" - BREST (29)
 
 ------
 
