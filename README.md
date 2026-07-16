@@ -4,7 +4,7 @@
 
 ------
 
-  	*Je suis un professionnel **polyvalent** du numérique, capable de concevoir, développer et maintenir des solutions techniques, web et **systèmes adaptées à des contextes variés**. J’allie expertise en formation, accompagnement et médiation pédagogique à une forte maîtrise des environnements IT, du DevOps, de la cybersécurité et de la gestion d’infrastructures. Mon parcours me permet aussi d’intervenir sur **toute la chaîne de valeur**, de la création graphique et vidéo à la production de contenus, au SEO/SEA et à l’optimisation de la présence en ligne. **J’aime transformer des besoins complexes en outils concrets, utiles et accessibles, avec une approche à la fois technique, humaine et orientée résultat**.*
+*Je suis un **professionnel polyvalent** du numérique, capable de concevoir, développer et maintenir des solutions techniques, web et **systèmes adaptées à des contextes variés**. J’allie expertise en formation, accompagnement et médiation pédagogique à une forte maîtrise des environnements IT, du DevOps, de la cybersécurité et de la gestion d’infrastructures. Mon parcours me permet aussi d’intervenir sur **toute la chaîne de valeur**, de la création graphique et vidéo à la production de contenus, au SEO/SEA et à l’optimisation de la présence en ligne. **J’aime transformer des besoins complexes en outils concrets, utiles et accessibles, avec une approche à la fois technique, humaine et orientée résultat.***
 
 ------
 
