@@ -29,6 +29,7 @@
 **2020/2026** - **Encadrant technique**, social et pédagogique (ULAMIR-CPIE) - MORLAIX (29)
 
 **2019/2020** - **Formateur** en développement WEB (Ligue de l'enseignement) - SÈTE (34)
+
 **2018/2019** - Chargé de **production et vente** (Appel un geek) - SÈTE (34)
 
 **2017/2018** - **Développeur** indépendant, **agent de maintenance informatique** - SÈTE (34)
@@ -79,7 +80,7 @@
 
 - **Création d'un protocole** de reconditionnement de matériel informatique.
 
-  **2024/2025** - Création d'un système de **parc informatique amnésique IPXE** / démarrage de vm en réseau sur RAM "diskless".
+  **2024/2025** - Création d'un système de **parc informatique amnésique IPXE** / démarrage "diskless".
   
   **2023/2024** - Création d'un site internet à portée écologique pour La Capsule - **lacapsule.org**.
   
